@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si usa este programa en un trabajo, cítelo así."
+type: software
+title: "Fitometría: software de visión por computadora para medir área foliar, contar semillas y estimar daño foliar"
+version: 0.1.0
+url: "https://jmezosolis.github.io/fitometria/"
+date-released: 2026-10-10
+authors:
+  - family-names: "Mezo-Solís"
+    given-names: "Jesús Alberto"
+    orcid: "https://orcid.org/0000-0001-8601-7628"
+    affiliation: "Instituto Tecnológico de Conkal, Yucatán, México"
+  - family-names: "Alvarado López"
+    given-names: "Carlos Juan"
+    orcid: "https://orcid.org/0000-0001-7442-8171"
+    affiliation: "Instituto Tecnológico de Conkal, Yucatán, México"
+  - family-names: "Andueza-Noh"
+    given-names: "Rubén Humberto"
+    orcid: "https://orcid.org/0000-0001-7776-7937"
+    affiliation: "Instituto Tecnológico de Conkal, Yucatán, México"
+keywords:
+  - área foliar
+  - morfometría
+  - conteo de semillas
+  - daño foliar
+  - visión por computadora
+  - fenotipado
