@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "language": "spa",
   "access_right": "open",
+  "license": "cc-by-nc-nd-4.0",
   "description": "<p>Fitometría es un software de visión por computadora que funciona en el navegador de un teléfono o una computadora y mide con la cámara. Tiene tres funciones: área foliar (área, perímetro, largo, ancho, índices de forma y color CIE L*a*b* de cada hoja), conteo de semillas (número, tamaño medio, variación y peso de mil semillas) y porcentaje de daño foliar (superficie amarillenta, café y perforada, y número de lesiones).</p><p>Se calibra con una plantilla impresa de cuatro marcas y una escala de grises, incluida como PDF, que da la escala, corrige la inclinación de la cámara y corrige el color.</p><p>Este registro contiene la versión publicada de la aplicación. Se puede usar en https://jmezosolis.github.io/fitometria/. El uso es gratuito.</p>",
   "creators": [
     {

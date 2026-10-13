@@ -8,6 +8,11 @@ Software de visión por computadora para medir área foliar, contar semillas y e
 
 Este repositorio contiene solo la versión publicada de la app. El uso es gratuito.
 
+## Licencia
+
+[Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es):
+se puede compartir sin modificarla y sin fines comerciales, reconociendo a los autores.
+
 ## Cómo citar
 
 Mezo-Solís, J. A., Alvarado López, C. J., y Andueza-Noh, R. H. (2026). Fitometría: software de visión
