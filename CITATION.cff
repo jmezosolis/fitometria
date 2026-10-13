@@ -4,6 +4,7 @@ type: software
 title: "Fitometría: software de visión por computadora para medir área foliar, contar semillas y estimar daño foliar"
 version: 0.1.0
 url: "https://jmezosolis.github.io/fitometria/"
+doi: 10.5281/zenodo.23352835
 date-released: 2026-10-10
 authors:
   - family-names: "Mezo-Solís"
