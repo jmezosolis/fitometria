@@ -5,7 +5,7 @@
   "language": "spa",
   "access_right": "open",
   "license": "cc-by-nc-nd-4.0",
-  "description": "<p>Fitometría es un software de visión por computadora que funciona en el navegador de un teléfono o una computadora y mide con la cámara. Tiene tres funciones: área foliar (área, perímetro, largo, ancho, índices de forma y color CIE L*a*b* de cada hoja), conteo de semillas (número, tamaño medio, variación y peso de mil semillas) y porcentaje de daño foliar (superficie amarillenta, café y perforada, y número de lesiones).</p><p>Se calibra con una plantilla impresa de cuatro marcas y una escala de grises, incluida como PDF, que da la escala, corrige la inclinación de la cámara y corrige el color.</p><p>Este registro contiene la versión publicada de la aplicación. Se puede usar en https://jmezosolis.github.io/fitometria/. El uso es gratuito.</p>",
+  "description": "<p>Fitometría es un software de visión por computadora que funciona en el navegador de un teléfono o una computadora y mide con la cámara. Tiene tres funciones: área foliar (área, perímetro, largo, ancho, índices de forma y color CIE L*a*b* de cada hoja), conteo de semillas (número, tamaño medio, variación y peso de mil semillas) y porcentaje de daño foliar (superficie amarillenta, café y perforada, y número de lesiones).</p><p>Se calibra con una plantilla impresa de cuatro marcas y una escala de grises, incluida como PDF, que da la escala, corrige la inclinación de la cámara y corrige el color.</p><p>Este registro contiene la versión publicada de la aplicación. Se puede usar en https://jmezosolis.github.io/fitometria/. El uso es gratuito.</p><p><strong>English.</strong> Fitometría is computer vision software that runs in the web browser of a phone or a computer and measures with the camera. It has three functions: leaf area (area, perimeter, length, width, shape indices and CIE L*a*b* color of each leaf), seed counting (number, mean size, variation and thousand-seed weight) and percentage of leaf damage (yellowish, brown and perforated surface, and number of lesions).</p><p>It is calibrated with a printed template with four marks and a grey scale, included as a PDF, which gives the scale, corrects camera tilt and corrects color.</p><p>This record contains the published version of the application. It can be used at https://jmezosolis.github.io/fitometria/. It is free to use.</p>",
   "creators": [
     {
       "name": "Mezo-Solís, Jesús Alberto",
@@ -29,6 +29,12 @@
     "conteo de semillas",
     "daño foliar",
     "visión por computadora",
-    "fenotipado"
+    "fenotipado",
+    "leaf area",
+    "morphometrics",
+    "seed counting",
+    "leaf damage",
+    "computer vision",
+    "plant phenotyping"
   ]
 }

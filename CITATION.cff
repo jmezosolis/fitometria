@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Si usa este programa en un trabajo, cítelo así."
+message: "Si usa este programa en un trabajo, cítelo así. / If you use this software, please cite it as below."
 type: software
 title: "Fitometría: software de visión por computadora para medir área foliar, contar semillas y estimar daño foliar"
 version: 0.1.0
@@ -19,6 +19,7 @@ authors:
     given-names: "Rubén Humberto"
     orcid: "https://orcid.org/0000-0001-7776-7937"
     affiliation: "Instituto Tecnológico de Conkal, Yucatán, México"
+abstract: "Computer vision software that runs in the web browser and measures leaf area, counts seeds and estimates leaf damage with the camera, calibrated with a printed template. / Software de visión por computadora que funciona en el navegador y mide área foliar, cuenta semillas y estima daño foliar con la cámara, calibrado con una plantilla impresa."
 keywords:
   - área foliar
   - morfometría
@@ -26,3 +27,9 @@ keywords:
   - daño foliar
   - visión por computadora
   - fenotipado
+  - leaf area
+  - morphometrics
+  - seed counting
+  - leaf damage
+  - computer vision
+  - plant phenotyping
